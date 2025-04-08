@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Mo Farhan
 
-<!--
-**MoFarhan01/MoFarhan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Junior Incident Manager → Cloud Engineer in the making  
+☁️ Certified in AZ-104 & AZ-900  
+🔧 Automating Azure with Terraform, CLI, and GitHub Actions  
+📚 Sharing my journey, labs, and cloud projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+- [Azure VM with Terraform](https://github.com/YOUR_USERNAME/azure-vm-terraform)
+- [CI/CD Deploy to Azure Web App](https://github.com/YOUR_USERNAME/azure-ci-cd)
+- [Serverless Incident Logger](https://github.com/YOUR_USERNAME/incident-logger)
+
+---
+
+## 🧠 Skills
+`Azure` `Terraform` `GitHub Actions` `CLI` `Python (basic)` `Incident Management` `Change Management` `Google Cloud Platform (GCP)` `Amazon Web Services (AWS)` `IT Service Managment`
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/mohammedfarhan1/))
+- Email: mohammedfarhanali13@gmail.com
