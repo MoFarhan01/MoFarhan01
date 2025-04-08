@@ -21,5 +21,5 @@
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/mohammedfarhan1/)
+- [LinkedIn](https://www.linkedin.com/in/mohammedfarhan1/)
 - Email: mohammedfarhanali13@gmail.com
