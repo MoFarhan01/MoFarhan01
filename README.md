@@ -1,47 +1,47 @@
-<div align="center">
-  <h1>👋 I'm Mohammed Farhan Ali</h1>
-  <p><strong>Cloud Systems Engineer | SRE | Azure & AWS Infrastructure</strong></p>
-  <p>📍 Based in Duisburg, NRW, Germany 🇩🇪 | 🎫 <strong>Chancenkarte Holder (Eligible for Full-time)</strong></p>
-</div>
+# Mohammed Farhan Ali
+**Cloud Systems Engineer | SRE | Azure & AWS Infrastructure**
+📍 Duisburg, NRW, Germany 🇩🇪 | 🎫 **Chancenkarte Holder (Immediate Availability)**
 
 ---
 
-### 🚀 Professional Summary
-A dedicated **Cloud Engineer** with 2+ years of production experience managing high-availability Azure environments (99.9% uptime). Currently leveraging the **Opportunity Card (Chancenkarte)** to join a forward-thinking DevOps team in Germany. I specialize in **Infrastructure as Code (Terraform)** and building automated observability pipelines.
-
-### 🛠️ Tech Stack & Skills
-<p>
-  <img src="https://img.shields.io" alt="Azure" />
-  <img src="https://img.shields.io" alt="AWS" />
-  <img src="https://img.shields.io" alt="Terraform" />
-  <img src="https://img.shields.io" alt="Docker" />
-  <img src="https://img.shields.io" alt="Python" />
-</p>
-
-### 🏗️ Projects Under Construction
-*Below are the core projects currently being built and added to this profile:*
-
-
-| Project | Focus | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **Azure-IaC-Automated** | Enterprise-grade Terraform with remote state locking | Terraform, Azure Blob | 🚧 In Progress |
-| **Azure-SRE-Observability** | Custom KQL dashboards & automated alerting | Azure Monitor, KQL | 🚧 In Progress |
-| **AWS-HighAvailability** | Auto-scaling clusters with CloudWatch & SNS | EC2, CloudWatch, SNS | 🚧 Planned |
-
-### 📊 GitHub Insights
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app" />
-  <img height="180em" src="https://github-readme-stats.vercel.app" />
-</p>
+### 💡 Professional Profile
+Experienced Cloud Engineer with **2+ years of production experience** in Azure and AWS environments. Specialized in automating infrastructure with **Terraform**, managing **99.9% uptime**, and resolving **P1/P2 incidents**. Currently based in Germany and looking to contribute to a high-performing DevOps team.
 
 ---
 
-### 📫 Let's Connect
-<p>
-  <a href="YOUR_LINKEDIN_URL_HERE">
-    <img src="https://img.shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:farhande13@gmail.com">
-    <img src="https://img.shields.io" alt="Email" />
-  </a>
-</p>
+### 🛠️ Technical Skills
+
+**Cloud Platforms**
+*   **Azure:** VM Administration (AZ-104), VNet, Load Balancers, Azure Backup, Log Analytics.
+*   **AWS:** EC2, S3, Auto-Scaling Groups, CloudWatch, SNS, IAM.
+
+**DevOps & Automation**
+*   **IaC:** Terraform (Modular design, Remote State Management), CloudFormation.
+*   **Containers:** Docker (Image optimization), Kubernetes (Basic orchestration).
+*   **CI/CD:** GitHub Actions, Azure DevOps Pipelines.
+*   **Scripting:** Python, Bash, KQL (Kusto Query Language).
+
+**Monitoring & Reliability**
+*   Azure Monitor, CloudWatch Alarms, Incident Management (SLA/SLO tracking).
+
+---
+
+### 🏗️ Live Projects (In Development)
+
+
+| Project | Key Skill Proven | Status |
+| :--- | :--- | :--- |
+| **Azure-IaC-Automated** | Enterprise Terraform State & Locking | 🚧 Active |
+| **Azure-SRE-Observability** | Log Analytics & Incident Runbooks | 🚧 Active |
+| **AWS-AutoScaling-Setup** | High-Availability & Automated Alerts | 📅 Planned |
+
+---
+
+### 📫 Connect With Me
+I am actively interviewing for **Cloud Engineer**, **SRE**, and **DevOps** roles in Germany.
+
+*   **LinkedIn:** [://linkedin.com](https://www.linkedin.com)
+*   **Email:** [farhande13@gmail.com](mailto:farhande13@gmail.com)
+*   **Location:** Duisburg / Düsseldorf / Essen / Remote (Germany)
+
+---
