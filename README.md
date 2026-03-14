@@ -40,7 +40,7 @@ Experienced Cloud Engineer with **2+ years of production experience** in Azure a
 ### 📫 Connect With Me
 I am actively interviewing for **Cloud Engineer**, **SRE**, and **DevOps** roles in Germany.
 
-*   **LinkedIn:** [://linkedin.com](https://www.linkedin.com)
+*   **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/mohammedfarhan1/)
 *   **Email:** [farhande13@gmail.com](mailto:farhande13@gmail.com)
 *   **Location:** Duisburg / Düsseldorf / Essen / Remote (Germany)
 
