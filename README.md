@@ -42,6 +42,6 @@ I am actively interviewing for **Cloud Engineer**, **SRE**, and **DevOps** roles
 
 *   **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/mohammedfarhan1/)
 *   **Email:** [farhande13@gmail.com](mailto:farhande13@gmail.com)
-*   **Location:** Duisburg / Düsseldorf / Essen / Remote (Germany)
+*   **Location:** Duisburg / Düsseldorf / Essen / Remote (Germany) / Open to Relocation
 
 ---
