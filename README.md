@@ -1,15 +1,13 @@
-# 👋 Hello, I'm Mohammed Farhan Ali
-**Cloud Engineer | SRE | Azure & AWS | Based in Duisburg, Germany 🇩🇪**
+<div align="center">
+  <h1>👋 I'm Mohammed Farhan Ali</h1>
+  <p><strong>Cloud Systems Engineer | SRE | Azure & AWS Infrastructure</strong></p>
+  <p>📍 Based in Duisburg, NRW, Germany 🇩🇪 | 🎫 <strong>Chancenkarte Holder (Eligible for Full-time)</strong></p>
+</div>
 
-### 🚀 About Me
-- ☁️ **Azure Certified Administrator (AZ-104)** with 2+ years of production experience.
-- 🛠️ Currently building automated infrastructure with **Terraform** and **GitHub Actions**.
-- 📍 Available for immediate hire in Germany on the **Chancenkarte**.
+---
 
-### 📈 Projects I'm Building
-- **[Azure-IaC-Automated]:** Modular Terraform setup with remote state storage.
-- **[Azure-SRE-Dashboard]:** Custom KQL dashboards for production monitoring.
-- **[AWS-AutoScaling-CloudWatch]:** High-availability setup on AWS Free Tier.
+### 🚀 Professional Summary
+A dedicated **Cloud Engineer** with 2+ years of production experience managing high-availability Azure environments (99.9% uptime). Currently leveraging the **Opportunity Card (Chancenkarte)** to join a forward-thinking DevOps team in Germany. I specialize in **Infrastructure as Code (Terraform)** and building automated observability pipelines.
 
 ### 🛠️ Tech Stack & Skills
 <p>
@@ -20,7 +18,25 @@
   <img src="https://img.shields.io" alt="Python" />
 </p>
 
-### 📫 Connect with Me
+### 🏗️ Projects Under Construction
+*Below are the core projects currently being built and added to this profile:*
+
+
+| Project | Focus | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **Azure-IaC-Automated** | Enterprise-grade Terraform with remote state locking | Terraform, Azure Blob | 🚧 In Progress |
+| **Azure-SRE-Observability** | Custom KQL dashboards & automated alerting | Azure Monitor, KQL | 🚧 In Progress |
+| **AWS-HighAvailability** | Auto-scaling clusters with CloudWatch & SNS | EC2, CloudWatch, SNS | 🚧 Planned |
+
+### 📊 GitHub Insights
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app" />
+  <img height="180em" src="https://github-readme-stats.vercel.app" />
+</p>
+
+---
+
+### 📫 Let's Connect
 <p>
   <a href="YOUR_LINKEDIN_URL_HERE">
     <img src="https://img.shields.io" alt="LinkedIn" />
