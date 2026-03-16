@@ -38,7 +38,7 @@ Experienced Cloud Engineer with **2+ years of production experience** in Azure a
 ---
 ### 📜 Certifications
 * Microsoft Certified: Azure Administrator Associate (AZ 104) - 2026
-* Microsoft Certified: Azure Fundamentals (AZ 900)
+* Microsoft Certified: Azure Fundamentals (AZ 900) - 2025
 
 ---
 
