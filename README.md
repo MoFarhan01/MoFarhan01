@@ -22,7 +22,7 @@ Experienced Cloud Engineer with **2+ years of production experience** in Azure a
 *   **Scripting:** Python, Bash, KQL (Kusto Query Language).
 
 **Monitoring & Reliability**
-*   Azure Monitor, CloudWatch Alarms, Incident Management (SLA/SLO tracking).
+*   Prometheus, Grafana, Azure Monitor, CloudWatch Alarms, Incident Management (SLA/SLO tracking).
 
 ---
 
