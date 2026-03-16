@@ -36,6 +36,11 @@ Experienced Cloud Engineer with **2+ years of production experience** in Azure a
 | **Infrastructure Monitoring with Prometheus & Grafana on AWS** | High-Availability & Automated Alerts | 📅 Planned |
 
 ---
+*** 📜 Certifications
+* Microsoft Certified: Azure Administrator Associate (AZ 104) - 2026
+* Microsoft Certified: Azure Fundamentals (AZ 900)
+
+---
 
 ### 📫 Connect With Me
 I am actively interviewing for **Cloud Engineer**, **SRE**, and **DevOps** roles in Germany.
