@@ -33,7 +33,7 @@ Experienced Cloud Engineer with **2+ years of production experience** in Azure a
 | :--- | :--- | :--- |
 | **Azure-IaC-Automated** | Enterprise Terraform State & Locking | ✅ Completed |
 | **Azure-SRE-Observability** | Log Analytics & Incident Runbooks | ✅ Completed |
-| **Infrastructure Monitoring with Prometheus & Grafana on AWS** | High-Availability & Automated Alerts | 📅 Planned |
+| **Infrastructure Monitoring with Prometheus & Grafana on AWS** | High-Availability & Automated Alerts | ✅ Completed |
 
 ---
 ### 📜 Certifications
