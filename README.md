@@ -139,7 +139,6 @@ Cloud Computing • Computer Networks • DBMS • Big Data • Web Technology
 ## 📫 Connect With Me
 
 * [LinkedIn](https://www.linkedin.com/in/mohammedfarhan1/)
-* [GitHub](https://github.com/MoFarhan01)
 * [Email](farhande13@gmail.com)
 
 ---
