@@ -1,52 +1,147 @@
-# Mohammed Farhan Ali
-**Cloud Systems Engineer | SRE | Azure & AWS Infrastructure**
-📍 Duisburg, NRW, Germany 🇩🇪 | 🎫 **Chancenkarte Holder (Immediate Availability)**
+# Mohammed Farhan Ali — Cloud Engineer ☁️
+
+**Azure | AWS | Terraform | CI/CD | Linux**
+
+📍 Duisburg, Germany
+⚡ No Sponsorship Required · Chancenkarte Holder · Immediately Available
 
 ---
 
-### 💡 Professional Profile
-Experienced Cloud Engineer with **2+ years of production experience** in Azure and AWS environments. Specialized in automating infrastructure with **Terraform**, managing **99.9% uptime**, and resolving **P1/P2 incidents**. Currently based in Germany and looking to contribute to a high-performing DevOps team.
+## 👨‍💻 About Me
+
+Azure-certified Cloud Engineer with 2+ years of production experience designing, automating, and operating cloud infrastructure at enterprise scale. Proven record of maintaining **99.9% uptime across 2,000+ VMs**, building CI/CD pipelines, and implementing Infrastructure-as-Code using Terraform. Strong focus on automation, cloud security, observability, and cost-efficient infrastructure.
 
 ---
 
-### 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 **Cloud Platforms**
-*   **Azure:** VM Administration (AZ-104), VNet, Load Balancers, Azure Backup, Log Analytics.
-*   **AWS:** EC2, S3, Auto-Scaling Groups, CloudWatch, SNS, IAM.
 
-**DevOps & Automation**
-*   **IaC:** Terraform (Modular design, Remote State Management), CloudFormation.
-*   **Containers:** Docker (Image optimization), Kubernetes (Basic orchestration).
-*   **CI/CD:** GitHub Actions, Azure DevOps Pipelines.
-*   **Scripting:** Python, Bash, KQL (Kusto Query Language).
+* Microsoft Azure
+* AWS (EC2, Lambda, S3, SageMaker, CloudWatch, IAM)
 
-**Monitoring & Reliability**
-*   Prometheus, Grafana, Azure Monitor, CloudWatch Alarms, Incident Management (SLA/SLO tracking).
+**Infrastructure & Automation**
+
+* Terraform
+* AWS CloudFormation
+* Bash & Python
+* Git & GitHub Actions
+
+**DevOps & Containers**
+
+* Azure DevOps Pipelines
+* Docker
+* Kubernetes
+
+**Monitoring & Observability**
+
+* Prometheus
+* Grafana
+* Azure Monitor
+* Log Analytics (KQL)
+* AWS CloudWatch
+
+**Networking & Security**
+
+* VNets, NSGs, Load Balancers
+* IAM Policies
+* Firewall Rules
+* TCP/IP, DNS
+
+**Operating Systems**
+
+* Linux (Ubuntu / CentOS / Debian)
+* Windows Server
 
 ---
 
-### 🏗️ Live Projects (In Development)
+## 💼 Professional Experience
 
+### ML Data Associate II — AWS Cloud Operations (Amazon)
 
-| Project | Key Skill Proven | Status |
-| :--- | :--- | :--- |
-| **Azure-IaC-Automated** | Enterprise Terraform State & Locking | ✅ Completed |
-| **Azure-SRE-Observability** | Log Analytics & Incident Runbooks | ✅ Completed |
-| **Infrastructure Monitoring with Prometheus & Grafana on AWS** | High-Availability & Automated Alerts | ✅ Completed |
+* Built and operated scalable ML cloud pipelines on AWS SageMaker
+* Automated data validation workflows improving reliability
+* Diagnosed infrastructure issues across Lambda, S3, CloudWatch, IAM
+* Applied IAM policies and cloud security best practices
+* ⭐ Star Performer Award for infrastructure reliability
+
+### Junior Incident Manager — WPP plc
+
+* Managed **2,000+ Azure VMs** maintaining 99.9% uptime
+* Built CI/CD pipelines using Azure DevOps
+* Implemented cloud security and firewall configurations
+* Created monitoring dashboards using Azure Monitor & KQL
+* Led P1/P2 incident response and reduced MTTR
+
+### Cloud Engineer Intern — WPP plc
+
+* Provisioned Azure infrastructure (VMs, VNets, Storage)
+* Managed DNS, NSGs, firewall rules
+* Authored troubleshooting documentation
 
 ---
-### 📜 Certifications
-* Microsoft Certified: Azure Administrator Associate (AZ 104) - 2026
-* Microsoft Certified: Azure Fundamentals (AZ 900) - 2025
+
+## 🚀 Key Projects
+
+### Azure Infrastructure Automation with Terraform
+
+* Complete Azure environment deployment using Terraform
+* Remote state management via Azure Blob Storage
+* Modular reusable IaC architecture
+
+### Cloud Observability Stack (Prometheus + Grafana)
+
+* AWS EC2 monitoring deployment
+* Custom dashboards & alerting rules
+* Automated bootstrap provisioning
+
+### Azure Monitor & Log Analytics Dashboard
+
+* VM health tracking solution
+* Incident detection workflows
+* Full incident response runbook
+
+### Kubernetes Nginx Deployment
+
+* Docker containerization
+* Kubernetes deployment & scaling
+* YAML manifest automation
 
 ---
 
-### 📫 Connect With Me
-I am actively interviewing for **Cloud Engineer**, **SRE**, and **DevOps** roles in Germany.
+## 📜 Certifications
 
-*   **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/mohammedfarhan1/)
-*   **Email:** [farhande13@gmail.com](mailto:farhande13@gmail.com)
-*   **Location:** Duisburg / Düsseldorf / Essen / Remote (Germany) / Open to Relocation
+* Microsoft Certified: Azure Administrator Associate (AZ-104)
+* Microsoft Certified: Azure Fundamentals (AZ-900)
+* DevOps Concepts — A Cloud Guru
 
 ---
+
+## 🎓 Education
+
+**B.Tech — Information Technology**
+Anna University, Chennai
+
+Relevant Coursework:
+Cloud Computing • Computer Networks • DBMS • Big Data • Web Technology
+
+---
+
+## 🌍 Languages
+
+* English — C1
+* German — A2 (Learning)
+* Hindi — Fluent
+* Tamil — Native
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn
+* GitHub
+* Email
+
+---
+
+⭐ If you like my work, feel free to star my repositories and connect!
