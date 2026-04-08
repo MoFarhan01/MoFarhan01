@@ -3,7 +3,7 @@
 **Azure | AWS | Terraform | CI/CD | Linux**
 
 📍 Duisburg, Germany
-⚡ No Sponsorship Required · Chancenkarte Holder · Immediately Available
+⚡ No Sponsorship Required · Chancenkarte Holder · Immediately Available · Open to Relocation across 🇩🇪
 
 ---
 
