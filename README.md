@@ -1,4 +1,4 @@
-# Mohammed Farhan Ali — Cloud Engineer ☁️
+# Cloud Engineer ☁️
 
 **Azure | AWS | Terraform | CI/CD | Linux**
 
