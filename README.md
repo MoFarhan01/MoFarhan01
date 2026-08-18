@@ -136,10 +136,7 @@ Cloud Computing • Computer Networks • DBMS • Big Data • Web Technology
 ## 🌍 Languages
 
 * English — C1
-* German — A2 (Learning)
-* Hindi — Fluent
-* Tamil — Native
-
+* German — A2 (Learning towards B1)
 ---
 
 ## 📫 Connect With Me
