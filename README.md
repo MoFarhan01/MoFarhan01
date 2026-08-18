@@ -107,6 +107,12 @@ Azure-certified Cloud Engineer with 2+ years of production experience designing,
 * Kubernetes deployment & scaling
 * YAML manifest automation
 
+### Work in Progress - Production-Grade AKS Platform on Azure
+
+* Terraform-provisioned AKS cluster
+* Ingress with automated TLS
+* GitOps delivery via Argo CD
+
 ---
 
 ## 📜 Certifications
