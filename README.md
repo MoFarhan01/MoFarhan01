@@ -59,10 +59,10 @@ I am a Cloud & Infrastructure Engineer with over two years of experience keeping
 
 ### ML Data Associate II — AWS Cloud Operations (Amazon)
 
-* Built and operated scalable ML cloud pipelines on AWS SageMaker
-* Automated data validation workflows improving reliability
-* Diagnosed infrastructure issues across Lambda, S3, CloudWatch, IAM
-* Applied IAM policies and cloud security best practices
+* Supported high-volume AI/ML data operations on a 24/7 global team using AWS, hitting every quality and speed SLA.
+* Tracked down weird edge cases in live queues and handed them off to engineering with clear steps to reproduce, cutting down the back-and-forth on fixes.
+* Handled sensitive data safely by following strict privacy rules and least-privilege IAM access.
+* Spotted repeat workflow bottlenecks and updated our SOPs, making the whole team faster and more accurate.
 * ⭐ Star Performer Award for infrastructure reliability
 
 ### Junior Incident Manager — WPP plc
