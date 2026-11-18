@@ -1,6 +1,6 @@
 # Cloud Engineer ☁️
 
-**Azure | AWS | Terraform | CI/CD | Linux**
+**AWS | Azure | Terraform | CI/CD | Linux**
 
 📍 Duisburg, Germany
 ⚡ No Sponsorship Required · Chancenkarte Holder · Immediately Available · Open to Relocation across 🇩🇪
@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-Azure-certified Cloud Engineer with 2+ years of production experience designing, automating, and operating cloud infrastructure at enterprise scale. Proven record of maintaining **99.9% uptime across 2,000+ VMs**, building CI/CD pipelines, and implementing Infrastructure-as-Code using Terraform. Strong focus on automation, cloud security, observability, and cost-efficient infrastructure.
+I am a Cloud & Infrastructure Engineer with over two years of experience keeping big AWS and Azure systems running smoothly. At Amazon, I worked on a 24/7 global team handling AI/ML data operations. Before that, at WPP, I helped run 2,000+ Windows and Linux servers at 99.9% uptime.
 
 ---
 
